@@ -1,0 +1,23 @@
+Earn Trust- Area for improvement-
+.       Could mention metrics or specific outcomes of improved communication
+.       Could highlight how this lesson helped in mentoring others or team leadership
+
+Consider restructuring like this:
+
+"While at Microsoft's data platform team, I received critical feedback about project management and communication. During a complex data analysis project using Cosmos, I underestimated the learning curve and missed a deadline without proper communication. My manager provided direct feedback about the importance of setting realistic expectations and maintaining transparent communication.
+
+I took immediate action by:
+
+Having a detailed requirements discussion
+Setting a new realistic timeline
+Implementing weekly status updates
+Building regular communication habits
+This experience transformed my approach to project management. In subsequent leadership roles, I've used this lesson to:
+
+Mentor team members about the importance of transparent communication
+Establish clear communication protocols in my teams
+Build stronger trust relationships with stakeholders
+Proactively identify and address potential delays
+The result was not just delivering the project successfully, but developing lasting practices that have helped me build high-trust relationships throughout my career."
+
+This version better aligns with L6 expectations by showing how a personal lesson evolved into leadership practices.

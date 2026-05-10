@@ -1,0 +1,23 @@
+"Let me share an experience from my time at Apple's Device Service team where I not only met but exceeded expectations while handling a critical API migration project.
+Situation: In October 2024, I was tasked with migrating 30 APIs from a legacy service (Raven) to a new microservice architecture. These APIs were crucial for device activation and management, directly impacting our customers' ability to use their Apple devices.
+
+Task: My goal was to complete the migration by February 2025. The challenge was significant because these APIs were business-critical, and any errors could disrupt device activation for customers worldwide. Additionally, we had limited documentation as the original developers had left the company.
+
+Action: Demonstrating customer obsession and ownership, I:
+
+Took a systematic approach by first understanding the customer impact through UI investigation and Chrome developer tools
+Organized the 30 APIs into 6 logical groups based on functionality to ensure methodical testing and deployment
+Dove deep into the codebase to understand every nuance of the implementation
+Collaborated closely with QA to establish comprehensive testing protocols
+Initiated direct customer feedback sessions to ensure the migration met user needs
+Built automated comparison tools to verify new API responses matched legacy behavior
+Proactively identified and addressed potential risks before they could impact customers
+Result: I exceeded expectations by:
+
+Completing the migration ahead of schedule by January 2025
+Achieving zero customer-reported issues post-deployment
+Implementing additional monitoring and alerting systems beyond the original scope
+Creating detailed documentation for future maintenance
+Receiving positive feedback from user acceptance testing
+Successfully passing all performance and stress tests in staging
+Ensuring zero service disruptions during the transition

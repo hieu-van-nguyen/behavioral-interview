@@ -1,0 +1,20 @@
+"While working on eBay's Shipping Team in 2016, I led a critical initiative to migrate our seller settings pages and dashboard to a modern Node.js stack. This migration was essential for providing sellers with a better, more responsive user experience, especially during the crucial holiday shopping season.
+When I realized that neither I nor my team had deep expertise in Node.js, Bootstrap, or responsive UI design, I recognized that I needed to significantly enhance my technical knowledge to deliver a solution that would truly benefit our sellers. This was particularly important because these pages directly impacted sellers' ability to manage their businesses efficiently.
+
+I took ownership of my learning journey and approached it from multiple angles:
+
+I proactively attended eBay's internal Node.js development seminars to understand best practices and common pitfalls
+I reached out to my manager to connect with a principal engineer who had extensive experience with Experience Service and responsive UI
+I invested personal time in studying books and online courses about Node.js, React, and Bootstrap
+I documented everything I learned to help other team members ramp up quickly
+This comprehensive approach to building expertise paid off significantly. We successfully delivered the modernized pages before the October deadline, ensuring our sellers had a robust, responsive platform for the peak shopping season. The new interface made it easier for sellers to manage their shipping settings and track their performance, directly improving their experience on our platform.
+
+Most importantly, by documenting my learning journey and creating onboarding materials, I helped establish a knowledge foundation that benefited the entire team and future projects. This demonstrated both customer obsession by focusing on seller needs and ownership by thinking beyond just my immediate responsibilities to benefit the broader organization."
+
+This response highlights:
+
+Customer Obsession: Focus on improving seller experience
+Learn and Be Curious: Proactive approach to gaining new expertise
+Ownership: Taking responsibility for both personal growth and team success
+Deliver Results: Meeting critical deadlines for holiday season
+Earn Trust: Sharing knowledge and helping others succeed

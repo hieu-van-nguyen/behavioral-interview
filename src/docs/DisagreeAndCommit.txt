@@ -1,0 +1,33 @@
+have a disagree with my manager
+
+Areas for Improvement:
+
+Could elaborate more on the discussion process with the manager
+Might benefit from explaining how this experience influenced future leadership approaches
+Could provide more details on the outcomes of both solutions (short-term and long-term)
+Could highlight how this experience shaped team dynamics or influenced others
+
+Consider restructuring the story like this:
+
+"In 2018, while working on eBay's Guaranteed Delivery project, I encountered a situation that tested my ability to balance disagreement with commitment to team goals.
+
+The challenge was to quickly implement a feature allowing sellers to set different cut-off times for each day of the week. My manager proposed modifying an existing JSP page for speed, while I advocated for developing a new page using our modern NodeJS stack.
+
+To navigate this disagreement:
+
+I clearly articulated my concerns about technical debt and long-term efficiency.
+I listened to my manager's perspective on project priorities and risk management.
+We had an open discussion about trade-offs between immediate needs and future plans.
+Despite my reservations, I committed to the team's decision and delivered the JSP solution on time.
+After project launch, I took initiative to develop the NodeJS version, which we implemented in early 2019.
+This experience taught me valuable lessons about earning trust through actions:
+
+Demonstrating commitment to team goals, even when disagreeing with the approach.
+Balancing short-term necessities with long-term technical vision.
+Finding ways to advocate for best practices while respecting immediate business needs.
+As a leader, I've since applied these lessons by:
+
+Fostering an environment where team members feel safe to voice concerns.
+Implementing processes to balance quick wins with strategic technical investments.
+Mentoring junior developers on navigating technical disagreements professionally.
+The result was not only successful project delivery but also improved team dynamics and trust. The NodeJS solution we eventually implemented led to X% improvement in performance and Y% reduction in maintenance time."
